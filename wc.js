@@ -1,5 +1,3 @@
-#! /usr/bin/env node
-// This line is called a Shebang, it tells the OS to run it with node.js
 import inquirer from "inquirer";
 import chalk from "chalk";
 // Welcome message for the user
